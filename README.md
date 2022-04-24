@@ -1,6 +1,8 @@
 # 30DaysMakeMyOS
 跟着《30天自制操作系统》这本书进行Linux内核的学习。
 
+运行!cons_nt.bat程序，输入make run运行操作系统。
+
 ### To-Do List
 
 - [x] 文字显示
